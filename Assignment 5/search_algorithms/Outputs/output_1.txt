@@ -1,0 +1,6 @@
+Your Game Tree Leaves: [3.0, 4.0, 1.0, 6.0, 2.0, 5.0, 1.0, 0.0]
+
+1. Minimax Value: 4.0
+2. Alpha-Beta Value: 4.0
+3. Heuristic Alpha-Beta Value (Cutoff depth 2): 2
+4. MCTS Simulation Decision & Projected Win Rate: ('root_game_state_child0', 0.5294117647058824)

@@ -1,0 +1,7 @@
+Enter score value for Leaf Node #2: 4
+Enter score value for Leaf Node #3: 1
+Enter score value for Leaf Node #4: 6
+Enter score value for Leaf Node #5: 2
+Enter score value for Leaf Node #6: 5
+Enter score value for Leaf Node #7: 1
+Enter score value for Leaf Node #8: 0
